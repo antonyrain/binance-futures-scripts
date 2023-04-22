@@ -1,0 +1,9 @@
+{
+    "limit_long": 20567.3,
+    "hedge_at": 0.10,
+    "long_counter": 2,
+    "take_profit": 0.99,
+    "timer_1": 0.2,
+    "timer_2": 1, 
+    "unblock": 0
+}
